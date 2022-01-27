@@ -11,8 +11,8 @@ git init
 ```
 git status
 ```
--poder listar y ver los archivos estan listos para subir 
--ojo ne caso los archivos mo esten listos se veran en color rojo y cuando seran de color verde
+- poder listar y ver los archivos estan listos para subir 
+- :eye: en el caso los archivos mo esten listos se veran en color rojo y cuando seran de color verde
 
 ```
 git add .
@@ -37,3 +37,10 @@ git push origin main
 git pull origin main
 ```
 - sirve para descargar los cambios de nuestro repositorio en la nube  en este caso github
+
+```
+git clone 
+```
+
+- sirve para clonar proyectos mios o de cualquier persona 
+:eye: la repos  debria ser publica 
