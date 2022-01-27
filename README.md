@@ -32,3 +32,8 @@ git commit -m "coemtario"
 git push origin main 
 ```
 -sirve para hacer cmabios a nuestro repositorio en la nube, en este caso github
+
+```
+git pull origin main
+```
+- sirve para descargar los cambios de nuestro repositorio en la nube  en este caso github
