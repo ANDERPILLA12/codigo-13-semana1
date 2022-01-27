@@ -44,3 +44,14 @@ git clone
 
 - sirve para clonar proyectos mios o de cualquier persona 
 :eye: la repos  debria ser publica 
+
+```
+git branch 
+```
+-sirve para podert listar  los branch q tengo localmente y en cual me encuentro
+
+```
+git checkout -b nombre-del-branch
+```
+- sirve para poder moverme entre ramas 
+:eye: si el checkaut 
